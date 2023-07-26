@@ -1,4 +1,4 @@
-package kuberneteS
+package KuberneteS
 
 import "fmt"
 func main() {

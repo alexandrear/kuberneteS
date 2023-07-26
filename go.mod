@@ -1,3 +1,3 @@
-module k8s.io/kuberneteS
+module k8s.io/KuberneteS
 
 go 1.20
